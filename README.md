@@ -1,2 +1,2 @@
-# github-workshop
-Repository for testing out GitHub Features.
+# Alphabets and Numbers
+Repository containing Alphabets and Numbers
