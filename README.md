@@ -22,7 +22,7 @@ The development workflow goes like this :
     `git checkout <branch-name>`
     This brings you to your new branch \<branch-name>.
     
-4. Now, edit the 'Alphabet.txt' and 'numbers.txt' and fix the missing letters and order of them. When you have made the changes, `commit`.
+4. Now, edit the 'Alphabet.txt' and 'numbers.txt' and fix the missing letters and correct the order. When you have made the changes, `commit`.
 
     The process of commiting goes like this:
     
