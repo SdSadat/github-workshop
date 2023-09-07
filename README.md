@@ -1,4 +1,5 @@
-### Alphabets and Numbers have gone missing
+### good first issue
+#### Alphabets and Numbers have gone missing
 
 Fix the issue, By following the given instructions.
 
