@@ -1,4 +1,4 @@
-### good first issue
+### Good first issue
 #### Alphabets and Numbers have gone missing
 
 Fix the issue, By following the given instructions.
